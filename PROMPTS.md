@@ -27,3 +27,19 @@ LLM: Claude (Claude Code, Opus 5.5)
 ## Prompt 6
 
 > Done, re-run it
+
+## Prompt 7
+
+> what are the requirements
+
+## Prompt 8
+
+> can you take a screenshot for each
+
+## Prompt 9
+
+> thats ok can you give me the prompts now
+
+## Prompt 10
+
+> Yes, push it
