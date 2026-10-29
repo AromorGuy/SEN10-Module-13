@@ -4,7 +4,7 @@ const { buildVisitGreeting } = require("../script");
 describe("buildVisitGreeting", () => {
   test("says good morning before noon", () => {
     expect(buildVisitGreeting(new Date(2026, 9, 26, 9))).toBe(
-      "Good morning! 4 days until the weekend." // intentionally wrong: demo failing test
+      "Good morning! 5 days until the weekend."
     );
   });
 
